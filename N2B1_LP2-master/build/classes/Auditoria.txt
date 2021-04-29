@@ -1,0 +1,4 @@
+Auditoria - 0510 - Bebida - Teste 2 - 10 - 12,50 - 16,00 - Cadastrado em Produtos.txt - Wed Apr 28 21:35:08 BRT 2021
+Auditoria - 0510 -  Teste 3 - 10 - 10,00 - Cadastrado em ProdutosInsumo.txt - Wed Apr 28 21:40:41 BRT 2021
+Auditoria - 0510 - Comida - Teste Comida - 25 - 12,00 - 18,00 Cadastrado em Produtos.txt - Wed Apr 28 21:42:17 BRT 2021
+ Auditoria - 0510 - Tetse Insumos - 10 - 4,00 Cadastrado em ProdutosInsumo.txt - Wed Apr 28 21:44:19 BRT 2021

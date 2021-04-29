@@ -1,0 +1,6 @@
+001 - Vassoura - 010 - 2,30 
+002 - Rodo - 025 - 1,40 
+003 - Copo Americano - 08 - 2,50 
+004 - Taça Vinho 300 ml - 010 - 2,30
+0510 -  Teste 3 - 10 - 10,00
+0510 - Tetse Insumos - 10 - 4,00
